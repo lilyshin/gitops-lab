@@ -9,4 +9,4 @@ resources:
 images:
 - name: lilyshin/hello-app
   newName: lilyshin/hello-app
-  newTag: 937beaa
+  newTag: 3dbb9e3
